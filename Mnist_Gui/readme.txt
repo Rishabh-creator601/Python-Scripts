@@ -1,0 +1,5 @@
+
+
+Run Mnist.py 
+
+
