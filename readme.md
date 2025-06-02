@@ -37,5 +37,5 @@ https://github.com/user-attachments/assets/59a00025-4f20-45fa-af5e-132ace6ea4a9
 ## - Tk Image Slider
 A python developed Tkinter for sliding images 
 
- <video src="https://github.com/Rishabh-creator601/Python-Scripts/blob/master/media/tk_image_slider.mp4?raw=true" type="video/mp4" width="320" height="240" />
+https://github.com/user-attachments/assets/a7d6f648-e4c4-4107-96dd-484e3ed63d1c
 
