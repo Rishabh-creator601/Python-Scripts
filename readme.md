@@ -8,9 +8,9 @@ Contains scripts of various kinds / softwares / techniques and much more
 
 A python written pyqt5 application for saving and getting quick snippets 
 
-<img src="./media/axis1.png"  height="250px"  width="100px">
-<img src="./media/axis2.png"  height="300px" width="100px">
-<img src="./media/axis3.png"  height="300px" width="100px">
+<img src="./media/axis1.png"  height="3000px" >
+<img src="./media/axis2.png"  height="300px" >
+<img src="./media/axis3.png"  height="300px" >
 
 
 
