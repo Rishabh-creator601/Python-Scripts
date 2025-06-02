@@ -30,7 +30,7 @@ A python developed Tkinter frame for switching b/w pages
 <img src="./media/tk1.png"  height="250px"  width="350px">
 <img src="./media/tk2.png"  height="250px">
 
-  <video src="./media/tk_temp.mp4" type="video/mp4" width="320px" height="240px" />
+  <video src="./media/tk_temp.mp4" type="video/mp4" width="320" height="240" >
 
 
 
@@ -38,5 +38,5 @@ A python developed Tkinter frame for switching b/w pages
 ## - Tk Image Slider
 A python developed Tkinter for sliding images 
 
- <video src="./media/tk_image_slider.mp4" type="video/mp4" width="320px" height="240px" />
+ <video src="./media/tk_image_slider.mp4" type="video/mp4" width="320" height="240" />
 
