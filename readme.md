@@ -29,8 +29,8 @@ A python developed Tkinter frame for switching b/w pages
 
 <img src="./media/tk1.png"  height="250px"  width="350px">
 <img src="./media/tk2.png"  height="250px">
-[https://github.com/user-attachments/assets/2c902b73-eb67-483b-8a2f-b5316b202521](https://github.com/Rishabh-creator601/Python-Scripts/assets/2c902b73-eb
-)
+
+<video src="https://github.com/Rishabh-creator601/Python-Scripts/assets/2c902b73-eb" />
 
 
 
