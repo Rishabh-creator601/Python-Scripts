@@ -46,17 +46,12 @@ class SnipXPage(QWidget,SnipPath):
     self.copy_btn.clicked.connect(self.copy_text)
 
 
-    self.open_snippy = QPushButton("Open Snippy")
-    self.open_snippy.clicked.connect(self.open_)
-
-
 
 
     self.layout.addWidget(self.details)
     self.layout.addWidget(self.list_snip)
     self.layout.addWidget(self.display)
     self.layout.addWidget(self.copy_btn)
-    self.layout.addWidget(self.open_snippy)
 
 
 
@@ -66,18 +61,15 @@ class SnipXPage(QWidget,SnipPath):
   
 
    def show_snips(self,i):
-  	 
-  	 code = self.db.read()[i]
-  	 self.display.setPlainText(code)
+      code = self.db.read()[i]
+      self.display.setPlainText(code)
+  	   
 
 
    def copy_text(self):
 
       pc.copy(self.display.toPlainText())
       self.copy_btn.setText("Copied!")
-
-   def open_(self):
-      os.system("snippy.exe")
 
 
 
