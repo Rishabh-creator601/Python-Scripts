@@ -29,7 +29,7 @@ A python developed Tkinter frame for switching b/w pages
 
 <img src="./media/tk1.png"  height="250px"  width="350px">
 <img src="./media/tk2.png"  height="250px">
-<video src="https://raw.githubusercontent.com/Rishabh-creator601/Python-Scripts/blob/master/media/tk_temp.mp4" type="video/mp4" width="320" height="240" />
+[<video src="https://raw.githubusercontent.com/Rishabh-creator601/Python-Scripts/blob/master/media/tk_temp.mp4" type="video/mp4" width="320" height="240" />](https://github.com/user-attachments/assets/2c902b73-eb67-483b-8a2f-b5316b202521)
 
 
 
